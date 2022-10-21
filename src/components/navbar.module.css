@@ -1,0 +1,31 @@
+.nav{
+    display: flex;
+    gap: 100px;
+    justify-content:space-around;
+    border: 1px solid black;
+    font-weight: bold;
+    background-color: rgb(34, 151, 172);
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    .btn1{
+        width: 100px;
+        height: 30px;
+        margin-top: 1%;
+        margin-bottom: 1%;
+        border-radius: 10px;
+        background-color: rgb(237, 22, 79);
+        font-weight: bold;
+       border:none;
+       color: white;
+    }
+    .btn1:hover{
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    }
+    .img{
+        height: 60px;
+        width:200px;
+        margin-left:-60px;
+    }
