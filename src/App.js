@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <h1 className="h1">Favorite Places</h1>
-<Places/>
+      <Places/>
 
     </div>
   );
